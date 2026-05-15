@@ -2,7 +2,7 @@
 ## Data Analyst & Aspiring Developer
 My name is Yonas Gebre, data analyst and aspiring developer, trainee in Codeyourfuture.
 ## 🏓 Favorite Sport: Table Tennis
- i get unique joy from table tennis. It’s not just about the competition; it’s the way the game keeps my body in constant motion and brings a genuine sense of happiness to my day.
+ I get unique joy from table tennis. It’s the way the game keeps my body in constant motion and brings a genuine sense of happiness to my day.
 
 ## 🥣 Favorite Food: Porridge (ገዓት)
 A traditional powerhouse of a meal. Not only is it healthy, but it provides the long-lasting energy.
@@ -10,4 +10,5 @@ A traditional powerhouse of a meal. Not only is it healthy, but it provides the 
 ## Link Youtube video
 https://www.youtube.com/watch?v=8sHU4HQtZo8
 "Tmnitey" (ትምኒተይ) – Abraham Afewerki
+
 
